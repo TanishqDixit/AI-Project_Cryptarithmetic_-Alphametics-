@@ -1,6 +1,5 @@
 // Cryptarithmetic Puzzle using C++
 // Using Backtracking Algorithm to look for One of the possible solns.
-// Tanishq Dixit (2019IMT-120)
 #include <bits/stdc++.h>
 using namespace std;
 
