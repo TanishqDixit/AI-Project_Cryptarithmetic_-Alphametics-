@@ -1,6 +1,5 @@
 // Cryptarithmetic Puzzle using C++
 // Using Brute-force search (Exhaustive search) Algorithm to search through all of the possible permutations
-// Tanishq Dixit (2019IMT-120)
 #include<iostream>
 #include<string.h>
 using namespace std;
